@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Alba Pares
+    given-names: Joan
+    orcid: 
+title: "Meep simulations for laser, quantum dots and waveguides"
+version: 1.0.0
+date-released: 2023-06-18
